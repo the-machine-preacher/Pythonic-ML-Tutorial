@@ -1,6 +1,8 @@
 # The 'Pythonic' Machine Learning (ML) Tutorial!
 Machine learning, the field of computer science that gives computer systems the ability to learn from data, is one of the hottest topics in computer science. It's transforming the world: from spam filtering in social networks to computer vision for self-driving cars, the potential applications of machine learning are vast.
 
+<br/>Included in this tutorial is Deep learning, a cutting-edge form of machine learning inspired by the architecture of the human brain, but it doesn’t have to be intimidating. In this Skill Path, you will use TensorFlow and Keras to train, test, and tune neural networks for regression and classification. Along the way, you will demonstrate your skills by building actual models with real data.
+
 # Table of Contents
 **A-D. Introduction to Machine Learning**
 - [A. Why use Machine Learning?](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/A.%20Why%20Use%20Machine%20Learning.ipynb)
@@ -15,3 +17,9 @@ Machine learning, the field of computer science that gives computer systems the 
 
 **G. Regression vs. Classification**
 - [G. Regression vs. Classification](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/G.%20Regression%20vs%20Classification.ipynb)
+
+**G. Regression vs. Classification**
+- H. Foundations of Deep Learning and Perceptrons
+- I. Getting Started with TensorFlow
+- J. Classification
+- K. Deep Learning in the Real World
