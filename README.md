@@ -18,7 +18,7 @@ Machine learning, the field of computer science that gives computer systems the 
 **G. Regression vs. Classification**
 - [G. Regression vs. Classification](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/G.%20Regression%20vs%20Classification.ipynb)
 
-**G. Regression vs. Classification**
+**H-K. Regression vs. Classification**
 - H. Foundations of Deep Learning and Perceptrons
 - I. Getting Started with TensorFlow
 - J. Classification
