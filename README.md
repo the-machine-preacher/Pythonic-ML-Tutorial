@@ -22,9 +22,9 @@ Machine learning, the field of computer science that gives computer systems the 
 - [H. Introduction-Foundations of Deep Learning and Perceptrons](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/H.%20Introduction-Foundations%20of%20Deep%20Learning%20and%20Perceptrons.ipynb)
 - [I. What are Neural Networks?](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/I.%20What%20are%20Neural%20Networks.ipynb)
 - [J. Deep Learning Math](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/J.%20Deep%20Learning%20Math.ipynb)
-- [K. Dangers of the Black Box]
+- [K. Dangers of the Black Box](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/K.%20Dangers%20of%20the%20Black%20Box.ipynb)
 
-**H-K. Foundations of Deep Learning and Perceptrons**
+**H-K. Getting Started with TensorFlow**
 - I. Getting Started with TensorFlow
 - J. Classification
 - K. Deep Learning in the Real World
