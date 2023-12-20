@@ -18,13 +18,13 @@ Machine learning, the field of computer science that gives computer systems the 
 **G. Regression vs. Classification**
 - [G. Regression vs. Classification](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/G.%20Regression%20vs%20Classification.ipynb)
 
-**H-K. Foundations of Deep Learning and Perceptrons**
+**H-L. Foundations of Deep Learning and Perceptrons**
 - [H. Introduction-Foundations of Deep Learning and Perceptrons](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/H.%20Introduction-Foundations%20of%20Deep%20Learning%20and%20Perceptrons.ipynb)
 - [I. What are Neural Networks?](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/I.%20What%20are%20Neural%20Networks.ipynb)
 - [J. Deep Learning Math](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/J.%20Deep%20Learning%20Math.ipynb)
 - [K. Dangers of the Black Box](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/K.%20Dangers%20of%20the%20Black%20Box.ipynb)
+  [L. Perceptron](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/L.%20Perceptron.ipynb)
 
-**L-N. Getting Started with TensorFlow**
-- [L. Perceptron](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/L.%20Perceptron.ipynb)
+**M-N. Getting Started with TensorFlow**
 - [M. Implementing Neural Networks](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/M.%20Implementing%20Neural%20Networks.ipynb)
 - [N. Hyperparameter Tuning](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/N.%20Hyperparameter%20Tuning.ipynb)
