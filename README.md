@@ -8,7 +8,8 @@ Machine learning, the field of computer science that gives computer systems the 
 - [A. Why use Machine Learning?](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/A.%20Why%20Use%20Machine%20Learning.ipynb)
 - [B. The Machine Learning Process](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/B.%20The%20Machine%20Learning%20Process.ipynb)
 - [C. Supervised vs. Unsupervised Learning](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/C.%20Supervised%20vs%20Unsupervised%20Learning.ipynb)
-- [C1. Supervised vs. Unsupervised Learning-In Detail](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/C1.%20Supervised%20vs%20Unsupervised%20Learning-In%20Detail.ipynb)
+- [C1. Definitive Guide to ML Architectures and Algorithms-2016](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/C1.%20Definitive%20Guide%20to%20ML%20Architectures%20and%20Algorithms-2016.ipynb)
+- [C2. Definitive Guide to ML Architectures and Algorithms-2026](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/C2.%20Definitive%20Guide%20to%20ML%20Architectures%20and%20Algorithms-2026.ipynb)
 - [D. Scikit-Learn Cheatsheet](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/D.%20Scikit-Learn%20Cheatsheet.ipynb)
 
 **E-F. Linear Regression**
