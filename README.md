@@ -10,6 +10,7 @@ Machine learning, the field of computer science that gives computer systems the 
 - [C. Supervised vs. Unsupervised Learning](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/C.%20Supervised%20vs%20Unsupervised%20Learning.ipynb)
 - [C1. Definitive Guide to ML Architectures and Algorithms-2016](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/C1.%20Definitive%20Guide%20to%20ML%20Architectures%20and%20Algorithms-2016.ipynb)
 - [C2. Definitive Guide to ML Architectures and Algorithms-2026](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/C2.%20Definitive%20Guide%20to%20ML%20Architectures%20and%20Algorithms-2026.ipynb)
+- [C3. Comprehensive Taxonomy of Expert Systems-2026](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/C3.%20Comprehensive%20Taxonomy%20of%20Expert%20Systems-2026.ipynb)
 - [D. Scikit-Learn Cheatsheet](https://github.com/the-machine-preacher/Pythonic-ML-Tutorial/blob/main/D.%20Scikit-Learn%20Cheatsheet.ipynb)
 
 **E-F. Linear Regression**
